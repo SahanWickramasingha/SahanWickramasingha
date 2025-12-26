@@ -7,9 +7,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **DSA with Python**
 
-- 🧑‍🎓 I’m an Undergraduate at **OUSL**
+- 🧑‍🎓 I’m an IT Undergraduate at **OUSL**
 
 - 📫 How to reach me **sahanwikrama29@gmail.com**
 
