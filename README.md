@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **DSA with Python**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 🧑‍🎓 I’m an IT Undergraduate at **OUSL**
 
