@@ -25,23 +25,47 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SahanWickramasingha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanWickramasingha&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+<h2 align="center">📊 GitHub Analytics</h2>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahanWickramasingha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>
-  
-  </td>
-</tr>
-</table>
+<p align="center">
+  <i>A snapshot of my development activity and the technologies I work with.</i>
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=SahanWickramasingha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
+    alt="Sahan's GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SahanWickramasingha&theme=tokyonight&hide_border=true"
+    alt="Sahan's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanWickramasingha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahanWickramasingha&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SahanWickramasingha&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+  />
+</p>
 
 ---
 
