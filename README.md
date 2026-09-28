@@ -25,29 +25,58 @@
 
 ---
 
+<hr>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <i>A snapshot of my development activity and coding journey.</i>
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SahanWickramasingha&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SahanWickramasingha&theme=tokyonight&hide_border=true&background=0D1117"
     width="55%"
-    alt="GitHub Streak"
+    alt="Sahan Wickramasingha GitHub Streak"
   />
 </p>
 
+<br>
+
+<!-- Language Usage -->
 <h3 align="center">💻 Language Usage Analysis</h3>
 
 <p align="center">
+  <i>Languages detected across my public GitHub repositories.</i>
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanWickramasingha&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&card_width=750&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages"
-    width="85%"
-    alt="Language Usage Analysis"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanWickramasingha&langs_count=20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&card_width=600"
+    width="60%"
+    alt="Sahan Wickramasingha Language Usage Analysis"
   />
 </p>
+
+<br>
+
+<!-- Repository Language Analysis -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahanWickramasingha&theme=tokyonight"
+    width="44%"
+    alt="Repositories Per Language"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahanWickramasingha&theme=tokyonight"
+    width="44%"
+    alt="Most Commit Language"
+  />
+</p>
+
+<hr>
 
 ---
 
