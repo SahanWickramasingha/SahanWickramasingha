@@ -33,35 +33,19 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahanWickramasingha&theme=tokyonight"
-    width="90%"
-    alt="GitHub Profile Details"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SahanWickramasingha&theme=tokyonight&hide_border=true"
+    width="55%"
+    alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahanWickramasingha&theme=tokyonight"
-    width="44%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahanWickramasingha&theme=tokyonight&utcOffset=5.5"
-    width="44%"
-    alt="Productive Time"
-  />
-</p>
+<h3 align="center">💻 Language Usage Analysis</h3>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahanWickramasingha&theme=tokyonight"
-    width="44%"
-    alt="Repositories Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahanWickramasingha&theme=tokyonight"
-    width="44%"
-    alt="Most Commit Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanWickramasingha&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&card_width=750&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages"
+    width="85%"
+    alt="Language Usage Analysis"
   />
 </p>
 
