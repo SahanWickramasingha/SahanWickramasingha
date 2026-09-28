@@ -28,42 +28,40 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <i>A snapshot of my development activity and the technologies I work with.</i>
+  <i>A snapshot of my development activity and coding journey.</i>
 </p>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=SahanWickramasingha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
-    alt="Sahan's GitHub Stats"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SahanWickramasingha&theme=tokyonight&hide_border=true"
-    alt="Sahan's GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahanWickramasingha&theme=tokyonight"
+    width="90%"
+    alt="GitHub Profile Details"
   />
 </p>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanWickramasingha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahanWickramasingha&theme=tokyonight"
+    width="44%"
+    alt="GitHub Stats"
   />
-
   <img
-    width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahanWickramasingha&theme=tokyonight&utcOffset=5.5"
+    width="44%"
     alt="Productive Time"
   />
 </p>
 
 <p align="center">
   <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SahanWickramasingha&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahanWickramasingha&theme=tokyonight"
+    width="44%"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahanWickramasingha&theme=tokyonight"
+    width="44%"
+    alt="Most Commit Language"
   />
 </p>
 
