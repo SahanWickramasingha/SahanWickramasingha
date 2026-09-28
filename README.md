@@ -29,15 +29,18 @@
 
 <hr>
 
+<hr>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <i>A snapshot of my development activity and coding journey.</i>
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SahanWickramasingha&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=SahanWickramasingha&theme=tokyonight"
     width="55%"
     alt="GitHub Streak"
   />
@@ -53,7 +56,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanWickramasingha&layout=normal&langs_count=20&theme=tokyonight&hide_border=true&card_width=500&custom_title=Most%20Used%20Languages&stats_format=percentages&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SahanWickramasingha&layout=normal&langs_count=20&theme=tokyonight&hide_border=true&card_width=500&custom_title=Most%20Used%20Languages&size_weight=0.5&count_weight=0.5"
     width="55%"
     alt="Most Used Languages"
   />
