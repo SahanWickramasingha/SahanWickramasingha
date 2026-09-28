@@ -26,8 +26,6 @@
 ---
 
 
-<hr>
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -58,8 +56,6 @@
     alt="Most Used Languages"
   />
 </p>
-
-<hr>
 
 ---
 
